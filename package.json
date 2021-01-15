@@ -11,7 +11,7 @@
     "nodejs",
     "sequelize"
   ],
-  "author": "Youssef El Behi",
+  "author": "Manon FAUCHER",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
